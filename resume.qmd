@@ -5,7 +5,7 @@ format: html
 
 # Resume
 
-[Download My Resume](https://chayman7771.github.io/Cameron-Hayman-Quant-Research-Portfolio/www/Cameron_Hayman_Resume.pdf){.btn .btn-primary target="_blank"}
+[Download My Resume](static/Cameron_Hayman_Resume.pdf){.btn .btn-primary target="_blank"}
 
 ---
 
