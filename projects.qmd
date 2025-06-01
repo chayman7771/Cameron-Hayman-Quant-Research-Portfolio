@@ -1,6 +1,8 @@
 ﻿---
 title: "Projects"
-format: html
+format:
+  html:
+    allow-html: true
 ---
 
 # Project Portfolio
