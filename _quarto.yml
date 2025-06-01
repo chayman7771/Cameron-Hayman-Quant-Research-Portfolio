@@ -1,13 +1,9 @@
 ﻿project:
   type: website
   output-dir: docs
-  resources:
-    - static
-
 
 website:
   title: "Cameron Hayman"
-  favicon: www/favicon.ico
   navbar:
     left:
       - href: index.qmd
