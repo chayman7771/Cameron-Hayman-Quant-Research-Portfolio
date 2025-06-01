@@ -11,7 +11,7 @@ format:
 
 :::{.col}
 :::{.card .h-100}
-![Stat Arb Desk](images/trade_desk.png){.card-img-top}
+![Stat Arb Desk](images/Stat_Arb.png){.card-img-top}
 :::{.card-body}
 #### Systematic Stat Arb Trade Desk
 Full-stack execution system deploying real-time mean reversion and momentum strategies using Python, R, and SQL.
@@ -21,7 +21,7 @@ Full-stack execution system deploying real-time mean reversion and momentum stra
 
 :::{.col}
 :::{.card .h-100}
-![Latency Arbitrage](images/latency_map.png){.card-img-top}
+![Latency Arbitrage](images/Latency_Arbitrage.png){.card-img-top}
 :::{.card-body}
 #### Geo-Spatial Latency Arbitrage
 Optimizes cross-market spreads with real-time rerouting using Prometheus, PowerShell, and Grafana.
@@ -31,7 +31,7 @@ Optimizes cross-market spreads with real-time rerouting using Prometheus, PowerS
 
 :::{.col}
 :::{.card .h-100}
-![NLP Pipeline](images/nlp_pipeline.png){.card-img-top}
+![NLP Pipelines](images/NLP_Pipelines.png){.card-img-top}
 :::{.card-body}
 #### Alt Data NLP Pipeline
 Extracts alpha from 10-Qs, earnings calls, and filings using transformer models and integrates them into multifactor engines.
@@ -41,7 +41,7 @@ Extracts alpha from 10-Qs, earnings calls, and filings using transformer models 
 
 :::{.col}
 :::{.card .h-100}
-![Forecast Engine](images/forecast_engine.png){.card-img-top}
+![Forecast Engine](images/Monte_Carlo_and_Forecasting.png){.card-img-top}
 :::{.card-body}
 #### Monte Carlo + GARCH Forecasting
 Equity price prediction engine combining time-series simulation and stochastic volatility models (R, ggplot2).
