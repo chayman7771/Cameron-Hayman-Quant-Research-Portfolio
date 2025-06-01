@@ -1,0 +1,28 @@
+﻿project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Cameron Hayman"
+  favicon: www/favicon.ico
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+    right:
+      - icon: github
+        href: https://github.com/chayman7771
+      - icon: linkedin
+        href: https://linkedin.com/in/chayman7771
+
+format:
+  html:
+    theme: darkly
+    css: styles-dark.css
+    toc: true

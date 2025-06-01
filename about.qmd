@@ -1,0 +1,26 @@
+﻿---
+title: "About Me"
+format: html
+---
+
+# About Me
+
+I'm a **Statistical Arbitrage Quantitative Researcher** focused on transforming advanced statistical and machine learning research into high-performance, production-grade trading strategies.
+
+My expertise spans the entire quant lifecycle:
+
+- Signal generation & factor modeling  
+- Strategy backtesting (Python, R, SQL)  
+- Microsecond-level latency arbitrage  
+- Live execution pipelines using Prometheus, Docker, and Grafana  
+
+---
+
+## 🔍 Areas of Expertise
+
+- **Trading Strategies**: Mean reversion, cross-sectional momentum, pricing inefficiencies  
+- **Alt Data & NLP**: 10-Q parsing, earnings call tone analysis, SEC filings  
+- **ML Modeling**: LSTMs, GARCH, Monte Carlo, ensemble methods  
+- **Infrastructure**: Docker, Postgres, GitHub Actions, ClickHouse, Prometheus
+
+My mission is to bridge quant theory with infrastructure engineering to deploy strategies that work in the real world.

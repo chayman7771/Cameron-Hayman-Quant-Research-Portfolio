@@ -1,0 +1,24 @@
+﻿---
+title: "Cameron Hayman"
+format: html
+---
+
+# Welcome
+
+Welcome to my quantitative research and data science portfolio.
+
+Here you'll find a deep dive into my work across:
+
+- Systematic trading  
+- Statistical arbitrage  
+- Predictive modeling  
+- Real-time execution systems
+
+### Explore
+
+- **Advanced trading systems** using latency arbitrage  
+- **Alternative data alpha extraction pipelines** using NLP  
+- **Monte Carlo & GARCH-based forecasting engines**  
+- **Full-stack quant research dashboards** (Prometheus, Grafana, Shiny)
+
+All systems have been built for real-world execution, blending research rigor with production readiness.

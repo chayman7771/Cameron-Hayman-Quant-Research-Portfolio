@@ -1,0 +1,50 @@
+﻿---
+title: "Projects"
+format: html
+---
+
+# Project Portfolio
+
+<div class="row row-cols-1 row-cols-md-2 g-4">
+
+<div class="col">
+<div class="card h-100">
+  <img src="images/trade_desk.png" class="card-img-top" alt="Stat Arb Desk">
+  <div class="card-body">
+    <h5 class="card-title">Systematic Stat Arb Trade Desk</h5>
+    <p class="card-text">Full-stack execution system deploying real-time mean reversion and momentum strategies using Python, R, and SQL.</p>
+  </div>
+</div>
+</div>
+
+<div class="col">
+<div class="card h-100">
+  <img src="images/latency_map.png" class="card-img-top" alt="Latency Arbitrage">
+  <div class="card-body">
+    <h5 class="card-title">Geo-Spatial Latency Arbitrage</h5>
+    <p class="card-text">Optimizes cross-market spreads with real-time rerouting using Prometheus, PowerShell, and Grafana.</p>
+  </div>
+</div>
+</div>
+
+<div class="col">
+<div class="card h-100">
+  <img src="images/nlp_pipeline.png" class="card-img-top" alt="NLP Pipeline">
+  <div class="card-body">
+    <h5 class="card-title">Alt Data NLP Pipeline</h5>
+    <p class="card-text">Extracts alpha from 10-Qs, earnings calls, and filings using transformer models and integrates them into multifactor engines.</p>
+  </div>
+</div>
+</div>
+
+<div class="col">
+<div class="card h-100">
+  <img src="images/forecast_engine.png" class="card-img-top" alt="Forecast Engine">
+  <div class="card-body">
+    <h5 class="card-title">Monte Carlo + GARCH Forecasting</h5>
+    <p class="card-text">Equity price prediction engine combining time-series simulation and stochastic volatility models (R, ggplot2).</p>
+  </div>
+</div>
+</div>
+
+</div>
