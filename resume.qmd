@@ -5,7 +5,7 @@ format: html
 
 # Resume
 
-[Download My Resume](Cameron_Hayman_Resume.pdf){download=true}
+[Download My Resume](Cameron_Hayman_Resume.pdf)
 
 ---
 
