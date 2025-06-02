@@ -65,8 +65,36 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Project Portfolio",
     "section": "",
-    "text": "Project Portfolio\n\n\n&lt;div class=\"project-card\"&gt;\n  &lt;img src=\"images/Stat_Arb.png\" alt=\"Systematic Stat Arb\" class=\"project-image\"&gt;\n  &lt;div class=\"project-info\"&gt;\n    &lt;h4&gt;Systematic Stat Arb Trade Desk&lt;/h4&gt;\n    &lt;ul&gt;\n      &lt;li&gt;Mean reversion & momentum (Python, R, SQL)&lt;/li&gt;\n      &lt;li&gt;Backtesting & execution engine&lt;/li&gt;\n      &lt;li&gt;Alpha-driven, real-time strategy&lt;/li&gt;\n    &lt;/ul&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"project-card\"&gt;\n  &lt;img src=\"images/Latency_Arbitrage.png\" alt=\"Latency Arbitrage\" class=\"project-image\"&gt;\n  &lt;div class=\"project-info\"&gt;\n    &lt;h4&gt;Geo-Spatial Latency Arbitrage&lt;/h4&gt;\n    &lt;ul&gt;\n      &lt;li&gt;Cross-market spread optimization&lt;/li&gt;\n      &lt;li&gt;Real-time rerouting with Prometheus, PowerShell, Grafana&lt;/li&gt;\n    &lt;/ul&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"project-card\"&gt;\n  &lt;img src=\"images/NLP_Pipelines.png\" alt=\"NLP Pipelines\" class=\"project-image\"&gt;\n  &lt;div class=\"project-info\"&gt;\n    &lt;h4&gt;Alt Data NLP Pipeline&lt;/h4&gt;\n    &lt;ul&gt;\n      &lt;li&gt;Extracts alpha from 10-Qs, earnings calls, filings&lt;/li&gt;\n      &lt;li&gt;Transformer models in multi-factor engines&lt;/li&gt;\n    &lt;/ul&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"project-card\"&gt;\n  &lt;img src=\"images/Monte_Carlo_and_Forecasting.png\" alt=\"Forecast Engine\" class=\"project-image\"&gt;\n  &lt;div class=\"project-info\"&gt;\n    &lt;h4&gt;Monte Carlo + GARCH Forecasting&lt;/h4&gt;\n    &lt;ul&gt;\n      &lt;li&gt;Equity price prediction engine&lt;/li&gt;\n      &lt;li&gt;Time-series + stochastic volatility (R, ggplot2)&lt;/li&gt;\n    &lt;/ul&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
+    "text": "View Code \n\n\n Full-stack execution system deploying real-time mean reversion and momentum strategies using Python, R, and SQL."
+  },
+  {
+    "objectID": "projects.html#statistical-arbitrage-systems",
+    "href": "projects.html#statistical-arbitrage-systems",
+    "title": "Project Portfolio",
+    "section": "",
+    "text": "View Code \n\n\n Full-stack execution system deploying real-time mean reversion and momentum strategies using Python, R, and SQL."
+  },
+  {
+    "objectID": "projects.html#geo-spatial-latency-arbitrage",
+    "href": "projects.html#geo-spatial-latency-arbitrage",
+    "title": "Project Portfolio",
+    "section": "Geo-Spatial Latency Arbitrage",
+    "text": "Geo-Spatial Latency Arbitrage\n\n    View Code \n\n\n Optimizes cross-market spreads with real-time rerouting using Prometheus, PowerShell, and Grafana."
+  },
+  {
+    "objectID": "projects.html#alternative-data-processing-methods",
+    "href": "projects.html#alternative-data-processing-methods",
+    "title": "Project Portfolio",
+    "section": "Alternative Data Processing Methods",
+    "text": "Alternative Data Processing Methods\n\n    View Code \n\n\n Extracts alpha from 10-Qs, earnings calls, and filings using transformer models and integrates them into multifactor engines."
+  },
+  {
+    "objectID": "projects.html#monte-carlo-garch-arima-other-forecasting-models",
+    "href": "projects.html#monte-carlo-garch-arima-other-forecasting-models",
+    "title": "Project Portfolio",
+    "section": "Monte Carlo, GARCH, ARIMA & Other Forecasting Models",
+    "text": "Monte Carlo, GARCH, ARIMA & Other Forecasting Models\n\n    View Code \n\n\n Equity price prediction engine combining time-series simulation and stochastic volatility models (R, ggplot2)."
   }
 ]

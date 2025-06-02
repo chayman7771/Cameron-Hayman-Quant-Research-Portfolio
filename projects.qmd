@@ -1,55 +1,74 @@
 ---
-title: "Projects"
+title: "Project Portfolio"
 format:
   html:
     allow-html: true
+    css: styles-dark.css
 ---
 
-# Project Portfolio
 
-<div class="project-portfolio">
-  <div class="card-grid">
-    <div class="project-card">
-      <img src="images/Stat_Arb.png" alt="Systematic Stat Arb" class="project-image">
-      <div class="project-info">
-        <h4>Systematic Stat Arb Trade Desk</h4>
-        <ul>
-          <li>Mean reversion & momentum (Python, R, SQL)</li>
-          <li>Backtesting & execution engine</li>
-          <li>Alpha-driven, real-time strategy</li>
-        </ul>
-      </div>
-    </div>
-    <div class="project-card">
-      <img src="images/Latency_Arbitrage.png" alt="Latency Arbitrage" class="project-image">
-      <div class="project-info">
-        <h4>Geo-Spatial Latency Arbitrage</h4>
-        <ul>
-          <li>Cross-market spread optimization</li>
-          <li>Real-time rerouting with Prometheus, PowerShell, Grafana</li>
-        </ul>
-      </div>
-    </div>
-    <div class="project-card">
-      <img src="images/NLP_Pipelines.png" alt="NLP Pipelines" class="project-image">
-      <div class="project-info">
-        <h4>Alt Data NLP Pipeline</h4>
-        <ul>
-          <li>Extracts alpha from 10-Qs, earnings calls, filings</li>
-          <li>Transformer models in multi-factor engines</li>
-        </ul>
-      </div>
-    </div>
-    <div class="project-card">
-      <img src="images/Monte_Carlo_and_Forecasting.png" alt="Forecast Engine" class="project-image">
-      <div class="project-info">
-        <h4>Monte Carlo + GARCH Forecasting</h4>
-        <ul>
-          <li>Equity price prediction engine</li>
-          <li>Time-series + stochastic volatility (R, ggplot2)</li>
-        </ul>
-      </div>
-    </div>
-  </div>
+## Statistical Arbitrage Systems
+
+<div align="center">
+  <img src="images/Stat_Arb.png" alt="Stat Arb Strategies" class="project-image">
+  <br>
+  <a href="https://github.com/chayman7771/stat-arb-desk" target="_blank" class="gh-badge">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-24292f?logo=github&logoColor=white" alt="GitHub Repo Badge"> View Code
+  </a>
 </div>
+<p align="center" class="project-desc">
+  <em>
+    Full-stack execution system deploying real-time mean reversion and momentum strategies using Python, R, and SQL.
+  </em>
+</p>
 
+---
+
+## Geo-Spatial Latency Arbitrage
+
+<div align="center">
+  <img src="images/Latency_Arbitrage.png" alt="Geo-Spatial Latency Arbitrage" class="project-image">
+  <br>
+  <a href="https://github.com/chayman7771/global-latency-arb" target="_blank" class="gh-badge">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-24292f?logo=github&logoColor=white" alt="GitHub Repo Badge"> View Code
+  </a>
+</div>
+<p align="center" class="project-desc">
+  <em>
+  Optimizes cross-market spreads with real-time rerouting using Prometheus, PowerShell, and Grafana.
+  </em>
+</p>
+
+---
+
+## Alternative Data Processing Methods
+
+<div align="center">
+  <img src="images/NLP_Pipelines.png" alt="Alt Data NLP Pipeline" class="project-image">
+  <br>
+  <a href="https://github.com/chayman7771/nlp-pipeline" target="_blank" class="gh-badge">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-24292f?logo=github&logoColor=white" alt="GitHub Repo Badge"> View Code
+  </a>
+</div>
+<p align="center" class="project-desc">
+  <em>
+    Extracts alpha from 10-Qs, earnings calls, and filings using transformer models and integrates them into multifactor engines.
+  </em>
+</p>
+
+---
+
+## Monte Carlo, GARCH, ARIMA & Other Forecasting Models
+
+<div align="center">
+  <img src="images/Monte_Carlo_and_Forecasting.png" alt="Monte Carlo + GARCH Forecasting" class="project-image">
+  <br>
+  <a href="https://github.com/chayman7771/garch-forecasting" target="_blank" class="gh-badge">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-24292f?logo=github&logoColor=white" alt="GitHub Repo Badge"> View Code
+  </a>
+</div>
+<p align="center" class="project-desc">
+  <em>
+    Equity price prediction engine combining time-series simulation and stochastic volatility models (R, ggplot2).
+  </em>
+</p>
