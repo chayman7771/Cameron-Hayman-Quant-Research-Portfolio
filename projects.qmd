@@ -7,19 +7,49 @@ format:
 
 # Project Portfolio
 
-<div>
-  <img src="images/Stat_Arb.png" alt="Statistical Arbitrage" width="400">
-  <p><b>Systematic Stat Arb Trade Desk:</b> Full-stack execution system deploying real-time mean reversion and momentum strategies using Python, R, and SQL.</p>
+<div class="project-portfolio">
+  <div class="card-grid">
+    <div class="project-card">
+      <img src="images/Stat_Arb.png" alt="Systematic Stat Arb" class="project-image">
+      <div class="project-info">
+        <h4>Systematic Stat Arb Trade Desk</h4>
+        <ul>
+          <li>Mean reversion & momentum (Python, R, SQL)</li>
+          <li>Backtesting & execution engine</li>
+          <li>Alpha-driven, real-time strategy</li>
+        </ul>
+      </div>
+    </div>
+    <div class="project-card">
+      <img src="images/Latency_Arbitrage.png" alt="Latency Arbitrage" class="project-image">
+      <div class="project-info">
+        <h4>Geo-Spatial Latency Arbitrage</h4>
+        <ul>
+          <li>Cross-market spread optimization</li>
+          <li>Real-time rerouting with Prometheus, PowerShell, Grafana</li>
+        </ul>
+      </div>
+    </div>
+    <div class="project-card">
+      <img src="images/NLP_Pipelines.png" alt="NLP Pipelines" class="project-image">
+      <div class="project-info">
+        <h4>Alt Data NLP Pipeline</h4>
+        <ul>
+          <li>Extracts alpha from 10-Qs, earnings calls, filings</li>
+          <li>Transformer models in multi-factor engines</li>
+        </ul>
+      </div>
+    </div>
+    <div class="project-card">
+      <img src="images/Monte_Carlo_and_Forecasting.png" alt="Forecast Engine" class="project-image">
+      <div class="project-info">
+        <h4>Monte Carlo + GARCH Forecasting</h4>
+        <ul>
+          <li>Equity price prediction engine</li>
+          <li>Time-series + stochastic volatility (R, ggplot2)</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
-<div>
-  <img src="images/Latency_Arbitrage.png" alt="Geo-Spatial Latency Arbitrage" width="400">
-  <p><b>Geo-Spatial Latency Arbitrage:</b> Optimizes cross-market spreads with real-time rerouting using Prometheus, PowerShell, and Grafana.</p>
-</div>
-<div>
-  <img src="images/NLP_Pipelines.png" alt="Alt Data NLP Pipeline" width="400">
-  <p><b>Alt Data NLP Pipeline:</b> Extracts alpha from 10-Qs, earnings calls, and filings using transformer models and integrates them into multifactor engines.</p>
-</div>
-<div>
-  <img src="images/Monte_Carlo_and_Forecasting.png" alt="Monte Carlo + GARCH Forecasting" width="400">
-  <p><b>Monte Carlo + GARCH Forecasting:</b> Equity price prediction engine combining time-series simulation and stochastic volatility models (R, ggplot2).</p>
-</div>
+
