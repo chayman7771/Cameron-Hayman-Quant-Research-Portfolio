@@ -3,8 +3,6 @@ title: "Resume"
 format: html
 ---
 
-# Resume
-
 [Download My Resume](/static/Cameron_Hayman_Resume.pdf)
 
 ---
