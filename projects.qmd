@@ -12,7 +12,7 @@ format:
 <div align="center">
   <img src="images/Stat_Arb.png" alt="Stat Arb Strategies" class="project-image">
   <br>
-  <a href="https://github.com/chayman7771/stat-arb-desk" target="_blank" class="gh-badge">
+  <a href="https://github.com/chayman7771/Statistical-Arbitrage-Systems" target="_blank" class="gh-badge">
     <img src="https://img.shields.io/badge/View%20on-GitHub-24292f?logo=github&logoColor=white" alt="GitHub Repo Badge"> View Code
   </a>
 </div>
@@ -29,7 +29,7 @@ format:
 <div align="center">
   <img src="images/Latency_Arbitrage.png" alt="Geo-Spatial Latency Arbitrage" class="project-image">
   <br>
-  <a href="https://github.com/chayman7771/global-latency-arb" target="_blank" class="gh-badge">
+  <a href="https://github.com/chayman7771/Quantisphere" target="_blank" class="gh-badge">
     <img src="https://img.shields.io/badge/View%20on-GitHub-24292f?logo=github&logoColor=white" alt="GitHub Repo Badge"> View Code
   </a>
 </div>
@@ -46,7 +46,7 @@ format:
 <div align="center">
   <img src="images/NLP_Pipelines.png" alt="Alt Data NLP Pipeline" class="project-image">
   <br>
-  <a href="https://github.com/chayman7771/nlp-pipeline" target="_blank" class="gh-badge">
+  <a href="https://github.com/chayman7771/Forecasting-Models" target="_blank" class="gh-badge">
     <img src="https://img.shields.io/badge/View%20on-GitHub-24292f?logo=github&logoColor=white" alt="GitHub Repo Badge"> View Code
   </a>
 </div>
@@ -63,7 +63,7 @@ format:
 <div align="center">
   <img src="images/Monte_Carlo_and_Forecasting.png" alt="Monte Carlo + GARCH Forecasting" class="project-image">
   <br>
-  <a href="https://github.com/chayman7771/garch-forecasting" target="_blank" class="gh-badge">
+  <a href="https://github.com/chayman7771/Forecasting-Models" target="_blank" class="gh-badge">
     <img src="https://img.shields.io/badge/View%20on-GitHub-24292f?logo=github&logoColor=white" alt="GitHub Repo Badge"> View Code
   </a>
 </div>

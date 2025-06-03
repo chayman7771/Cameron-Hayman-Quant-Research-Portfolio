@@ -3,22 +3,64 @@ title: "Cameron Hayman"
 format: html
 ---
 
-# Welcome
+<div style="
+  max-width: 660px;
+  margin: 0 auto 28px auto;
+  background: #396896;
+  color: #fff;
+  font-size: 1.40rem;
+  font-style: italic;
+  font-family: 'Georgia', serif;
+  letter-spacing: 0.4px;
+  border-radius: 10px;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.13);
+  padding: 16px 32px 14px 32px;
+  text-align: center;">
+  "Building systematic trading systems at the intersection of research and execution."
+</div>
 
-Welcome to my quantitative research and data science portfolio.
 
-Here you'll find a deep dive into my work across:
+---
 
-- Systematic trading  
-- Statistical arbitrage  
-- Predictive modeling  
-- Real-time execution systems
+## Areas of Focus
 
-### Explore
+::: {.columns}
+::: {.column width="50%"}
+- **Statistical Arbitrage**  
+  Multi-leg, mean-reverting, market-neutral strategies
+- **Machine Learning & Alpha**  
+  Predictive modeling, feature engineering, risk analytics
+:::
+::: {.column width="50%"}
+- **Real-Time Execution Systems**  
+  Automated infra, backtesting, live dashboards
+- **Alternative Data & NLP**  
+  Sentiment, event-driven pipelines, unstructured data
+:::
+:::
 
-- **Advanced trading systems** using latency arbitrage  
-- **Alternative data alpha extraction pipelines** using NLP  
-- **Monte Carlo & GARCH-based forecasting engines**  
-- **Full-stack quant research dashboards** (Prometheus, Grafana, Shiny)
+---
 
-All systems have been built for real-world execution, blending research rigor with production readiness.
+<div style="display: flex; justify-content: center; margin-top: 18px; margin-bottom: 8px;">
+  <img src="images/LII-MSI.png" alt="Statistical Arbitrage Multi-Panel Plot" style="max-width: 900px; width: 100%; border-radius: 14px; box-shadow: 0 6px 32px rgba(0,0,0,0.22);" />
+</div>
+<div style="text-align: center; margin-bottom: 24px; color: #b0b0b0;">
+  <em>**LII-MSI Pairing:** Multi-leg, laddered, stat-arb strat: *PnL: 1375.99, Sharpe: 3.29; Rolling: 3.09, Total Trades: 104.*</em>
+</div>
+
+---
+
+## About
+
+Quantitative Researcher specializing in **designing, validating, and deploying production-grade trading strategies**.  
+Passionate about bridging the gap between rigorous research and real-world trading performance.
+
+---
+
+## Connect
+
+Explore my featured projects, detailed backtests, and open-source code.  
+Feel free to connect!
+
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github&logoColor=white)](https://github.com/chayman7771)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cameron-hayman-27a7a6155?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtSWkT3hfT9StBMVtbLiTnA%3D%3D)

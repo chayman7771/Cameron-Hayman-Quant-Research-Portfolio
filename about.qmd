@@ -3,8 +3,6 @@ title: "About Me"
 format: html
 ---
 
-# About Me
-
 I'm a **Statistical Arbitrage Quantitative Researcher** focused on transforming advanced statistical and machine learning research into high-performance, production-grade trading strategies.
 
 My expertise spans the entire quant lifecycle:

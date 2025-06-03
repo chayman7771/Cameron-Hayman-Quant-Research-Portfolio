@@ -133,14 +133,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#resume" id="toc-resume" class="nav-link active" data-scroll-target="#resume">Resume</a>
-  <ul class="collapse">
-  <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">🎓 Education</a></li>
+  <li><a href="#education" id="toc-education" class="nav-link active" data-scroll-target="#education">🎓 Education</a></li>
   <li><a href="#technical-skills" id="toc-technical-skills" class="nav-link" data-scroll-target="#technical-skills">🧠 Technical Skills</a></li>
-  <li><a href="#relevant-python-libraries" id="toc-relevant-python-libraries" class="nav-link" data-scroll-target="#relevant-python-libraries">Relevant Python Libraries:</a></li>
-  <li><a href="#experience" id="toc-experience" class="nav-link" data-scroll-target="#experience">💼 Experience</a></li>
-  <li><a href="#athletics-recognition" id="toc-athletics-recognition" class="nav-link" data-scroll-target="#athletics-recognition">⚾ Athletics &amp; Recognition</a></li>
-  </ul></li>
+  <li><a href="#relevant-python-libraries" id="toc-relevant-python-libraries" class="nav-link" data-scroll-target="#relevant-python-libraries">🐍 Relevant Python Libraries</a></li>
+  <li><a href="#relevant-experience" id="toc-relevant-experience" class="nav-link" data-scroll-target="#relevant-experience">💼 Relevant Experience</a></li>
+  <li><a href="#excellence-competitions" id="toc-excellence-competitions" class="nav-link" data-scroll-target="#excellence-competitions">🏆 Excellence &amp; Competitions</a></li>
   </ul>
 </nav>
     </div>
@@ -166,9 +163,17 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="resume" class="level1">
-<h1>Resume</h1>
-<p><a href=".\static/Cameron_Hayman_Resume.pdf">Download My Resume</a></p>
+<p><a href="./static/Cameron_Hayman_Resume.pdf" target="_blank" style="
+  background:#39658c;
+  color:white;
+  padding:10px 20px;
+  border-radius:6px;
+  text-decoration:none;
+  font-weight:bold;
+  display:inline-block;
+  margin-bottom:18px;
+  font-size:1.1rem;
+  transition: background 0.2s;"> Download My Resume (PDF) </a></p>
 <hr>
 <section id="education" class="level2">
 <h2 class="anchored" data-anchor-id="education">🎓 Education</h2>
@@ -189,46 +194,54 @@ ul.task-list li input[type="checkbox"] {
 <section id="technical-skills" class="level2">
 <h2 class="anchored" data-anchor-id="technical-skills">🧠 Technical Skills</h2>
 <ul>
-<li><strong>Languages</strong>: Python, R, SQL, PowerShell, VBA<br>
+<li><strong>Languages:</strong> Python, R, SQL (Postgres, LITE, DuckDB), PowerShell, VBA<br>
 </li>
-<li><strong>Quant Research</strong>: Mean Reversion, Factor Modeling, Financial Modeling (Excel), Cointegration, GARCH, ARIMA, Monte Carlo<br>
+<li><strong>Quant Research:</strong> Mean Reversion, Factor Modeling, Financial Modeling (Excel), Cointegration, GARCH, ARIMA, Monte Carlo<br>
 </li>
-<li><strong>Infrastructure</strong>: Docker, Grafana, Prometheus, alpaca-trade-api, Airflow, ClickHouse, AWS<br>
+<li><strong>Infrastructure:</strong> Docker, Grafana, Prometheus, Kafka, KDB+, alpaca-trade-api, Airflow, ClickHouse, AWS<br>
 </li>
-<li><strong>ML Models</strong>: Regression Models, Neural Networks (MLPs, LSTMs), KNN, SVM, Naive Bayes</li>
-<li><strong>Visualization</strong>: ggplot2, matplotlib, Shiny, Tableau, Power BI</li>
+<li><strong>ML Models:</strong> Regression Models, Neural Networks (MLPs, LSTMs), KNN, SVM, Naive Bayes<br>
+</li>
+<li><strong>Visualization:</strong> ggplot2, matplotlib, Shiny, Tableau, Power BI</li>
 </ul>
-</section>
-<section id="relevant-python-libraries" class="level2">
-<h2 class="anchored" data-anchor-id="relevant-python-libraries">Relevant Python Libraries:</h2>
-<ul>
-<li><strong>Quant Libraries</strong>: pandas, numpy, scipy, statsmodels, QuantLib, bt, backtrader, zipline, alphalens, quantstats, pyfolio<br>
-</li>
-<li><strong>ML / Forecasting</strong>: scikit-learn, xgboost, keras, prophet, neuralprophet, statsmodels, h2o<br>
-</li>
-<li><h2 id="nlp-alt-data-transformers-finbert-nltk-spacy-vadersentiment-beautifulsoup4" class="anchored"><strong>NLP &amp; Alt Data</strong>: transformers, finbert, nltk, spacy, vaderSentiment, beautifulsoup4</h2></li>
-</ul>
-</section>
-<section id="experience" class="level2">
-<h2 class="anchored" data-anchor-id="experience">💼 Experience</h2>
-<p><strong>CFA Research Challenge</strong><br>
-- Co-authored equity research valuation report for Absci<br>
-- DCF, DuPont, and asset turnover modeling in R</p>
-<p><strong>Tech &amp; Accounting Intern – HPM Tech Services</strong><br>
-- Built custom BI tools and automated reporting pipelines</p>
 <hr>
 </section>
-<section id="athletics-recognition" class="level2">
-<h2 class="anchored" data-anchor-id="athletics-recognition">⚾ Athletics &amp; Recognition</h2>
+<section id="relevant-python-libraries" class="level2">
+<h2 class="anchored" data-anchor-id="relevant-python-libraries">🐍 Relevant Python Libraries</h2>
 <ul>
-<li>NCAA D3 Baseball: Highest active winning percentage (.918) during tenure (2020-2023); Ranked top-3 nationally in saves as high leverage reliever (2024)</li>
-<li>1st Place: Elevator Pitch Competition<br>
+<li><strong>Quant:</strong> pandas, numpy, scipy, statsmodels, QuantLib, bt, backtrader, zipline, alphalens, quantstats, pyfolio<br>
 </li>
-<li>2nd Place: Business Design Challenge</li>
+<li><strong>ML/Forecasting:</strong> scikit-learn, xgboost, keras, prophet, neuralprophet, statsmodels, h2o<br>
+</li>
+<li><strong>NLP &amp; Alt Data:</strong> transformers, finbert, nltk, spacy, vaderSentiment, beautifulsoup4</li>
+</ul>
+<hr>
+</section>
+<section id="relevant-experience" class="level2">
+<h2 class="anchored" data-anchor-id="relevant-experience">💼 Relevant Experience</h2>
+<p><strong>CFA Research Challenge</strong><br>
+- Co-authored equity research valuation report on Absci for the CFA Institute National Research Challenge<br>
+- Built DCF, DuPont, and asset turnover models (Excel)<br>
+- Modeled, forecasted, and visualized in R</p>
+<p><strong>Technology &amp; Accounting Consulting Intern – HPM Tech Services</strong><br>
+- Built and installed custom hardware/software to improve client performance<br>
+- Provided remote cybersecurity and workflow support to clients<br>
+- Diagnosed ticketing system bugs, saving the company hundreds in lost revenue</p>
+<hr>
+</section>
+<section id="excellence-competitions" class="level2">
+<h2 class="anchored" data-anchor-id="excellence-competitions">🏆 Excellence &amp; Competitions</h2>
+<ul>
+<li><strong>NCAA D3 Baseball:</strong> Highest active winning percentage (.918) during tenure (2020–2023)
+<ul>
+<li>Ranked top-3 nationally in saves as high-leverage reliever (2024)</li>
+</ul></li>
+<li><strong>1st Place:</strong> Elevator Pitch Competition<br>
+</li>
+<li><strong>2nd Place:</strong> Business Design Challenge</li>
 </ul>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
