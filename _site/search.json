@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download My Resume (PDF)"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "🎓 Education",
+    "text": "🎓 Education\n\nM.S. Data Science, Willamette University (Expected 2025)\n\nB.A. Mathematics (Applied Computer Science), Wells College\n\nB.A. Accounting (Auditing), Washington & Jefferson College\n\n150+ credit hours\n\nMinors: Computing & Information Studies, Professional Writing"
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Resume",
+    "section": "🧠 Technical Skills",
+    "text": "🧠 Technical Skills\n\nLanguages: Python, R, SQL (Postgres, LITE, DuckDB), PowerShell, VBA\n\nQuant Research: Mean Reversion, Factor Modeling, Financial Modeling (Excel), Cointegration, GARCH, ARIMA, Monte Carlo\n\nInfrastructure: Docker, Grafana, Prometheus, Kafka, KDB+, alpaca-trade-api, Airflow, ClickHouse, AWS\n\nML Models: Regression Models, Neural Networks (MLPs, LSTMs), KNN, SVM, Naive Bayes\n\nVisualization: ggplot2, matplotlib, Shiny, Tableau, Power BI"
+  },
+  {
+    "objectID": "resume.html#relevant-python-libraries",
+    "href": "resume.html#relevant-python-libraries",
+    "title": "Resume",
+    "section": "🐍 Relevant Python Libraries",
+    "text": "🐍 Relevant Python Libraries\n\nQuant: pandas, numpy, scipy, statsmodels, QuantLib, bt, backtrader, zipline, alphalens, quantstats, pyfolio\n\nML/Forecasting: scikit-learn, xgboost, keras, prophet, neuralprophet, statsmodels, h2o\n\nNLP & Alt Data: transformers, finbert, nltk, spacy, vaderSentiment, beautifulsoup4"
+  },
+  {
+    "objectID": "resume.html#relevant-experience",
+    "href": "resume.html#relevant-experience",
+    "title": "Resume",
+    "section": "💼 Relevant Experience",
+    "text": "💼 Relevant Experience\nCFA Research Challenge\n- Co-authored equity research valuation report on Absci for the CFA Institute National Research Challenge\n- Built DCF, DuPont, and asset turnover models (Excel)\n- Modeled, forecasted, and visualized in R\nTechnology & Accounting Consulting Intern – HPM Tech Services\n- Built and installed custom hardware/software to improve client performance\n- Provided remote cybersecurity and workflow support to clients\n- Diagnosed ticketing system bugs, saving the company hundreds in lost revenue"
+  },
+  {
+    "objectID": "resume.html#excellence-competitions",
+    "href": "resume.html#excellence-competitions",
+    "title": "Resume",
+    "section": "🏆 Excellence & Competitions",
+    "text": "🏆 Excellence & Competitions\n\nNCAA D3 Baseball: Highest active winning percentage (.918) during tenure (2020–2023)\n\nRanked top-3 nationally in saves as high-leverage reliever (2024)\n\n1st Place: Elevator Pitch Competition\n\n2nd Place: Business Design Challenge"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Project Portfolio",
+    "section": "",
+    "text": "View Code \n\n\n Offering three methods of strategy testing through live, historical, and simulated data, this full-stack system deploys and compares strategies while recording all trades and summary statistics–as they occur–via trade logs. Available through a Dash UI, these python scripts converge together to conveniently display a PnL curve for each strategy, and a comparison PnL plot overlay of each curve as well."
+  },
+  {
+    "objectID": "projects.html#statistical-arbitrage-systems",
+    "href": "projects.html#statistical-arbitrage-systems",
+    "title": "Project Portfolio",
+    "section": "",
+    "text": "View Code \n\n\n Offering three methods of strategy testing through live, historical, and simulated data, this full-stack system deploys and compares strategies while recording all trades and summary statistics–as they occur–via trade logs. Available through a Dash UI, these python scripts converge together to conveniently display a PnL curve for each strategy, and a comparison PnL plot overlay of each curve as well."
+  },
+  {
+    "objectID": "projects.html#geo-spatial-latency-arbitrage",
+    "href": "projects.html#geo-spatial-latency-arbitrage",
+    "title": "Project Portfolio",
+    "section": "Geo-Spatial Latency Arbitrage",
+    "text": "Geo-Spatial Latency Arbitrage\n\n    View Code \n\n\n Quantisphere is a Kubernetes-orchestrated, microservices-based platform that ingests high-frequency market data via Kafka, stores it in Parquet files (upgradable to kdb+) for ultra-low-latency time-series analytics, and seamlessly integrates Python-powered machine-learning models for real-time arbitrage signal generation. Its global latency map and WebSocket-driven dashboard provide sub-millisecond visibility into cross-exchange spreads, while Prometheus and Grafana ensure comprehensive observability, alerting, and performance monitoring at every stage of the data pipeline. Together, these components enable systematic identification and execution of latency arbitrage opportunities with enterprise-grade reliability and scalability."
+  },
+  {
+    "objectID": "projects.html#alternative-data-processing-methods",
+    "href": "projects.html#alternative-data-processing-methods",
+    "title": "Project Portfolio",
+    "section": "Alternative Data Processing Methods",
+    "text": "Alternative Data Processing Methods\n\n    View Code \n\n\n Extracts alpha from 10-Qs, earnings calls, and filings using transformer models and integrates them into multifactor engines."
+  },
+  {
+    "objectID": "projects.html#monte-carlo-garch-arima-other-forecasting-models",
+    "href": "projects.html#monte-carlo-garch-arima-other-forecasting-models",
+    "title": "Project Portfolio",
+    "section": "Monte Carlo, GARCH, ARIMA & Other Forecasting Models",
+    "text": "Monte Carlo, GARCH, ARIMA & Other Forecasting Models\n\n    View Code \n\n\n Equity price prediction engine combining time-series simulation and stochastic volatility models (R, ggplot2)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nQuant Dev Portfolio\n",
+    "section": "",
+    "text": "“Engineering alpha through research-grade systematic infrastructure.”\n\n\n\n\n\n\nAreas of Focus\n\n\n\n\nStatistical Arbitrage (Equities, ETFs, Pairs)\n\n\nReal-Time Market Manipulation Detection (Spoofing, Layering)\n\n\nLatency Arbitrage Routing Optimization\n\n\nSystematic Options Strategy Backtesting\n\n\nMachine Learning for Signal Generation\n\n\n\n\n\n\n\n\nQuick About Me\n\n\nQuantitative developer and systems engineer with a background in mathematics, accounting, and financial engineering. I design institutional-grade infrastructure for real-time data collection, anomaly detection, and latency-optimized execution. Passionate about building high-performance research systems with measurable edge.\n\n\n\n\n\n\nSystems in Action\n\n\n\nLII-MSI Pair: Custom research infrastructure and data pipeline for evaluating laddered, multi-leg statistical arbitrage strategies.\n\n\n\nSimulated PnL: 1375.99   |   Sharpe: 3.29 (rolling: 3.09)   |   Trades: 104\n\n\n\n\n\n\n\nConnect With Me\n\n\n     \n\n\n\n\nSimulated research output from Willamette University. · Built with Quarto"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a Statistical Arbitrage Quantitative Researcher focused on transforming advanced statistical and machine learning research into high-performance, production-grade trading strategies.\nMy expertise spans the entire quant lifecycle:"
+  },
+  {
+    "objectID": "about.html#areas-of-expertise",
+    "href": "about.html#areas-of-expertise",
+    "title": "About Me",
+    "section": "🔍 Areas of Expertise",
+    "text": "🔍 Areas of Expertise\n\nTrading Strategies: Mean reversion, cross-sectional momentum, pricing inefficiencies\n\nAlt Data & NLP: 10-Q parsing, earnings call tone analysis, SEC filings\n\nML Modeling: LSTMs, GARCH, Monte Carlo, ensemble methods\n\nInfrastructure: Docker, Postgres, GitHub Actions, ClickHouse, Prometheus\n\nMy mission is to bridge quant theory with infrastructure engineering to deploy strategies that work in the real world."
+  },
+  {
+    "objectID": "msds-capstone.html",
+    "href": "msds-capstone.html",
+    "title": "MSDS Capstone",
+    "section": "",
+    "text": "Willamette University · Master’s in Data Science\nProject Goal: Real-time detection of spoofing and layering behavior using L2 order book data.\n\n\n\n\nPostgreSQL + Parquet storage\nReal-time WebSocket ingestion (IBKR/Alpaca)\nXGBoost + Isolation Forest + Rule-based hybrid\nLOB feature extraction pipeline (depth imbalance, pressure, cancellations)\nStreamlit dashboard (dev) + Docker deployment\n\n\n\n\n\n\n⚠️ Detected 93% of synthetic spoofing injections\n📉 False positive rate under 4%\n🧪 Benchmarked against synthetic and historical NASDAQ data\n\n\nFully deployable detection system integrated with Alpaca and IBKR.\n\n\n📂 Read full report\n📫 Contact for interview case walkthrough"
+  },
+  {
+    "objectID": "msds-capstone.html#tools-stack",
+    "href": "msds-capstone.html#tools-stack",
+    "title": "MSDS Capstone",
+    "section": "",
+    "text": "PostgreSQL + Parquet storage\nReal-time WebSocket ingestion (IBKR/Alpaca)\nXGBoost + Isolation Forest + Rule-based hybrid\nLOB feature extraction pipeline (depth imbalance, pressure, cancellations)\nStreamlit dashboard (dev) + Docker deployment"
+  },
+  {
+    "objectID": "msds-capstone.html#results",
+    "href": "msds-capstone.html#results",
+    "title": "MSDS Capstone",
+    "section": "",
+    "text": "⚠️ Detected 93% of synthetic spoofing injections\n📉 False positive rate under 4%\n🧪 Benchmarked against synthetic and historical NASDAQ data\n\n\nFully deployable detection system integrated with Alpaca and IBKR.\n\n\n📂 Read full report\n📫 Contact for interview case walkthrough"
+  },
+  {
+    "objectID": "quantisphere.html",
+    "href": "quantisphere.html",
+    "title": "Quantisphere",
+    "section": "",
+    "text": "Quantisphere is a hedge-fund-grade systematic trading architecture built for real-time execution, PnL optimization, and latency-sensitive arbitrage.\n\n\n\nMicrosecond-level latency routing with Neo4j path switching\nReal-time FIX gateway simulation\nGrafana dashboards + Prometheus integration\nFull Dockerized deployment with Prometheus alerts\nELK stack log aggregation\nDRL-based strategy inference\n\n\n🧠 Built from scratch to mirror professional-grade HFT infrastructure.\n\n\n\n\nQuantisphere Overview\n\n\n\n\n\n\n\nExecution Engine: Python + C++ for low latency.\nData Ingestion: IBKR + Alpaca APIs with failover logic.\nML Inference: Deep RL trade selection engine.\nMonitoring: Grafana/Prometheus with live metrics and Slack alerts.\nBacktest Suite: Custom-built latency arbitrage replay framework.\n\n\n📂 View full codebase (private GitHub)\n📝 Request demo access or walkthrough"
+  },
+  {
+    "objectID": "quantisphere.html#key-features",
+    "href": "quantisphere.html#key-features",
+    "title": "Quantisphere",
+    "section": "",
+    "text": "Microsecond-level latency routing with Neo4j path switching\nReal-time FIX gateway simulation\nGrafana dashboards + Prometheus integration\nFull Dockerized deployment with Prometheus alerts\nELK stack log aggregation\nDRL-based strategy inference\n\n\n🧠 Built from scratch to mirror professional-grade HFT infrastructure.\n\n\n\n\nQuantisphere Overview"
+  },
+  {
+    "objectID": "quantisphere.html#architecture-highlights",
+    "href": "quantisphere.html#architecture-highlights",
+    "title": "Quantisphere",
+    "section": "",
+    "text": "Execution Engine: Python + C++ for low latency.\nData Ingestion: IBKR + Alpaca APIs with failover logic.\nML Inference: Deep RL trade selection engine.\nMonitoring: Grafana/Prometheus with live metrics and Slack alerts.\nBacktest Suite: Custom-built latency arbitrage replay framework.\n\n\n📂 View full codebase (private GitHub)\n📝 Request demo access or walkthrough"
+  }
+]

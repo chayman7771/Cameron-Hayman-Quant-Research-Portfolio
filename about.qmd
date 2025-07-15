@@ -1,0 +1,57 @@
+﻿---
+title: ""
+format: html
+---
+
+<!-- HERO SECTION -->
+<section class="snap-section" id="middle">
+<div style="
+  max-width: 660px;
+  margin: 50px auto;
+  background: #396896;
+  color: #fff;
+  font-size: 1.5rem;
+  font-style: italic;
+  font-family: 'Georgia', serif;
+  letter-spacing: 0.4px;
+  border-radius: 10px;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.13);
+  padding: 16px 32px;
+  text-align: center;">
+“My mission is to bridge quant theory with infrastructure engineering to deploy strategies that work in the real world.”
+</div>
+</section>
+
+<hr style="border: none; border-top: 1px solid rgba(255,255,255,0.1); margin: 40px auto; max-width: 90%;">
+
+<section class="snap-section" id="about">
+<h2 style="text-align: left; font-size: 1.8rem; margin-bottom: 20px;">About Me</h2>
+<div style="
+  background: rgba(57,104,150,0.25);
+  border: 1px solid #396896;
+  color: #fff;
+  padding: 20px 30px;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  text-align: left;
+  max-width: 800px;
+  margin: 20px auto;">
+I’m a quantitative developer with a background in mathematics, accounting, and data science. I specialize in building production-grade infrastructure for real-time strategy research, anomaly detection, and latency-critical execution. I design and deploy end-to-end quant systems — from data ingestion and feature engineering to cloud-native model deployment and interactive visualization. My focus is on delivering high-performance solutions that bridge research innovation with live trading environments — turning alpha signals into executable strategies.  </div>
+</section>
+
+<hr style="border: none; border-top: 1px solid rgba(255,255,255,0.1); margin: 40px auto; max-width: 90%;">
+
+<!-- AREAS OF EXPERTISE -->
+<section id="expertise" style="margin-top: 50px;">
+    <h3 style="text-align: left; font-size: 1.6rem; margin: 40px auto 20px auto; max-width: 800px;">Areas of Expertise</h3>
+    <ul style="max-width: 800px; margin: 20px auto; font-size: 1.05rem; line-height: 1.6;">
+    <li><strong>Data Engineering:</strong> Scalable pipelines (Python, SQL, APIs, Websockets, Docker)</li>
+    <li><strong>Cloud Infrastructure:</strong> AWS, Railway, Docker, Kubernetes, GitHub Actions</li>
+    <li><strong>Quant Research:</strong> Strategy backtesting (Mean Reversion, Momentum, Options)</li>
+    <li><strong>Machine Learning:</strong> LSTMs, GARCH, Monte Carlo, NLP (SEC Filings, Tone)</li>
+    <li><strong>Scientific Computing:</strong> NumPy, SciPy, parallelized research workflows</li>
+    <li><strong>Risk & Execution:</strong> HFT logic (Python, some C++), VaR modeling, portfolio construction</li>
+    <li><strong>Visualization:</strong> ggplot2 (R), Matplotlib (Python), interactive dashboards</li>
+  </ul>
+</section>

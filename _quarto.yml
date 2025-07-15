@@ -1,0 +1,31 @@
+﻿project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Cameron Hayman | Quantitative Developer"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+      - href: msds-capstone.qmd
+        text: MSDS-Capstone
+      - href: quantisphere.qmd
+        text: Quantisphere
+    right:
+      - icon: github
+        href: https://github.com/chayman7771
+      - icon: linkedin
+        href: https://www.linkedin.com/in/cameron-hayman-27a7a6155
+
+format:
+  html:
+    theme: darkly
+    css: styles-dark.css
+    toc: true

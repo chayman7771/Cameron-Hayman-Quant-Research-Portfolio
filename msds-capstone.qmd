@@ -1,0 +1,65 @@
+---
+title: "MSDS Capstone:"
+format: html
+---
+
+<section class="snap-section" id="results">
+<h1 style="text-align: left;">Market Manipulation Detection System</h1>
+<div style="
+  background: rgba(57,104,150,0.25);
+  border: 1px solid #396896;
+  color: #fff;
+  padding: 20px 30px;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  max-width: 800px;
+  margin: 20px auto;
+  font-family: system-ui, sans-serif;
+">
+  <ul style="padding-left: 0.5em; font-style: italic;">
+    **Goal**: Real-time detection of spoofing and quote-stuffing using L2 market-book data.  
+  </ul>
+</div>
+</section>
+
+---
+
+## Tools & Stack
+
+- Real-time WebSocket ingestion (IBKR/Alpaca)  
+- PostgreSQL + Parquet storage (AWS S3)  
+- XGBoost + Isolation Forest + Rule-based hybrid  
+- Docker deployment, Railway, AWS EC2, + Grafana Dashboard
+
+![Data Accumulation Overview](images/msds_capstone_data_flow.png)
+
+---
+
+<section class="snap-section" id="results">
+<h2 style="text-align: left;">Results</h2>
+<div style="
+  background: rgba(57,104,150,0.25);
+  border: 1px solid #396896;
+  color: #fff;
+  padding: 20px 30px;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  max-width: 800px;
+  margin: 20px auto;
+  font-family: system-ui, sans-serif;
+">
+  <ul style="padding-left: 1.2em;">
+    <li>Detected <strong>XX%</strong> of synthetic spoofing injections</li>
+    <li>False positive rate under <strong>XX%</strong></li>
+    <li>Benchmarked against synthetic and historical NYSE data</li>
+  </ul>
+  <p style="margin-top: 12px; font-style: italic;">
+    Fully deployable, live detection system integrated with Alpaca and IBKR.
+  </p>
+</div>
+</section>
+
+---
+
+📂 [Read full report (to be posted upon completion in a few weeks!)](https://yourdomain.com/files/MSDS_Capstone_Report.pdf)  
+📫 [Contact for interview case walkthrough](mailto:camhayman913@gmail.com)

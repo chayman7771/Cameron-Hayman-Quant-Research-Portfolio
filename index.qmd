@@ -1,0 +1,123 @@
+﻿---
+title: ""
+format:
+  html:
+    page-layout: full
+    toc: false
+    include-after-body: script.js
+    css: 
+      - styles.css
+      - styles-dark.css
+    theme: litera
+    favicon: images/favicon.ico
+---
+
+<div class="snap-scroll">
+
+<!-- HERO SECTION -->
+<section class="snap-section" id="middle">
+<h1 style="text-align: center;">Quant Dev Portfolio</h1>
+<div style="
+  max-width: 660px;
+  margin: 50px auto;
+  background: #396896;
+  color: #fff;
+  font-size: 1.5rem;
+  font-style: italic;
+  font-family: 'Georgia', serif;
+  letter-spacing: 0.4px;
+  border-radius: 10px;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.13);
+  padding: 16px 32px;
+  text-align: center;">
+  “Engineering alpha through research-grade systematic infrastructure.”
+</div>
+</section>
+
+<hr style="border: none; border-top: 1px solid rgba(255,255,255,0.1); margin: 40px auto; max-width: 90%;">
+
+<!-- AREAS OF FOCUS -->
+<section class="snap-section" id="focus">
+<h2 style="text-align: left;">Areas of Focus</h2>
+<div style="
+  background: #396896;
+  color: #fff;
+  padding: 20px 30px;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  max-width: 800px;
+  margin: 20px auto;">
+  <ul>
+    <li>Market Data Pipelines</li>
+    <li>Statistical Arbitrage (Equities, ETFs, Pairs)</li>
+    <li>Systematic Options Strategy Backtesting</li>
+    <li>Real-Time Market Manipulation Detection (Spoofing, Layering)</li>
+    <li>Latency Arbitrage Routing Optimization</li>
+    <li>Machine Learning for Signal Generation</li>
+  </ul>
+</div>
+</section>
+
+
+<hr style="border: none; border-top: 1px solid rgba(255,255,255,0.1); margin: 40px auto; max-width: 90%;">
+
+<!-- ABOUT ME -->
+<section class="snap-section" id="about">
+<h2 style="text-align: left;">Professional Summary</h2>
+<div style="
+  background: rgba(57,104,150,0.25);
+  border: 1px solid #396896;
+  color: #fff;
+  padding: 20px 30px;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  max-width: 800px;
+  margin: 20px auto;">
+  Quantitative developer and systems engineer with a background in mathematics, accounting, and financial engineering. I design institutional-grade infrastructure for real-time data collection, anomaly detection, and latency-optimized execution. Passionate about building high-performance research systems with measurable edge.
+</div>
+</section>
+
+<hr style="border: none; border-top: 1px solid rgba(255,255,255,0.1); margin: 40px auto; max-width: 90%;">
+
+<!-- STRATEGY IMAGE / PERFORMANCE -->
+<section class="snap-section" id="performance">
+<h2 style="text-align: left;">Systems in Action</h2>
+
+<div style="text-align: center; margin-top: 16px;">
+  <p style="color: #888; font-size: 1.1rem; margin-bottom: 10px;">
+    LII-MSI Pair: Custom research infrastructure and data pipeline for evaluating laddered, multi-leg statistical arbitrage strategies.
+  </p>
+
+  <img src="images/LII-MSI.png" alt="LII MSI Strategy Snapshot" 
+       style="width: 100%; max-width: 800px; height: auto; border-radius: 10px; 
+              box-shadow: 0 4px 18px rgba(0,0,0,0.13); margin-top: 12px;">
+
+  <p style="margin-top: 14px; font-size: 0.95rem; color: #ccc; font-style: italic;">
+    Simulated PnL: <strong>1375.99</strong> &nbsp; | &nbsp;
+    Sharpe: <strong>3.29</strong> <span style="font-size: 0.9rem;">(rolling: 3.09)</span> &nbsp; | &nbsp;
+    Trades: <strong>104</strong>
+  </p>
+</div>
+</section>
+
+
+<hr style="border: none; border-top: 1px solid rgba(255,255,255,0.1); margin: 40px auto; max-width: 90%;">
+
+<!-- CONNECT -->
+<section class="snap-section" id="connect">
+<h4 style="text-align: left;">Connect With Me</h4>
+<div style="display: flex; gap: 32px; justify-content: left; align-items: left; margin-top: 20px;">
+  <a class="btn btn-primary" href="https://www.linkedin.com/in/cameron-hayman-27a7a6155">LinkedIn</a>
+  <a class="btn btn-outline-secondary" href="https://github.com/chayman7771?tab=repositories">GitHub</a>
+</div>
+</section>
+
+<!-- FOOTER -->
+<footer style="text-align: center; font-size: 0.9rem; color: #888; margin-top: 60px; padding-bottom: 20px;">
+<div class="text-sm text-gray-500 mt-6">
+  © 2025 Cameron Hayman · Built with Quarto
+</div>
+</footer>
+
+</div>
+</div>

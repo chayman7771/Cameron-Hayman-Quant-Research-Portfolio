@@ -1,0 +1,69 @@
+﻿---
+title: "Resume"
+format: html
+---
+
+<a href="/static/Cameron_Hayman_Resume.pdf" target="_blank" style="
+  background:#39658c;
+  color:white;
+  padding:10px 20px;
+  border-radius:6px;
+  text-decoration:none;
+  font-weight:bold;
+  display:inline-block;
+  margin-bottom:18px;
+  font-size:1.1rem;
+  transition: background 0.2s;">
+  Download My Resume (PDF)
+</a>
+
+***
+
+## 🎓 Education
+
+- **M.S. Data Science**, Willamette University (Expected 2025)  
+- **B.A. Mathematics (Applied Computer Science)**, Wells College  
+- **B.A. Accounting (Auditing)**, Washington & Jefferson College  
+    - 150+ credit hours  
+    - Minors: Computing & Information Studies, Professional Writing
+
+***
+
+## 🧠 Technical Skills
+
+- **Languages:** Python, R, SQL (Postgres, LITE, DuckDB), PowerShell, VBA  
+- **Quant Research:** Mean Reversion, Factor Modeling, Financial Modeling (Excel), Cointegration, GARCH, ARIMA, Monte Carlo    
+- **Infrastructure:** Docker, Grafana, Prometheus, Kafka, KDB+, alpaca-trade-api, Airflow, ClickHouse, AWS  
+- **ML Models:** Regression Models, Neural Networks (MLPs, LSTMs), KNN, SVM, Naive Bayes  
+- **Visualization:** ggplot2, matplotlib, Shiny, Tableau, Power BI  
+
+***
+
+## 🐍 Relevant Python Libraries
+
+- **Quant:** pandas, numpy, scipy, statsmodels, QuantLib, bt, backtrader, zipline, alphalens, quantstats, pyfolio  
+- **ML/Forecasting:** scikit-learn, xgboost, keras, prophet, neuralprophet, statsmodels, h2o  
+- **NLP & Alt Data:** transformers, finbert, nltk, spacy, vaderSentiment, beautifulsoup4  
+
+***
+
+## 💼 Relevant Experience
+
+**CFA Research Challenge**  
+- Co-authored equity research valuation report on Absci for the CFA Institute National Research Challenge  
+- Built DCF, DuPont, and asset turnover models (Excel)  
+- Modeled, forecasted, and visualized in R  
+
+**Technology & Accounting Consulting Intern – HPM Tech Services**  
+- Built and installed custom hardware/software to improve client performance  
+- Provided remote cybersecurity and workflow support to clients  
+- Diagnosed ticketing system bugs, saving the company hundreds in lost revenue  
+
+***
+
+## 🏆 Excellence & Competitions
+
+- **NCAA D3 Baseball:** Highest active winning percentage (.918) during tenure (2020–2023)
+    - Ranked top-3 nationally in saves as high-leverage reliever (2024)
+- **1st Place:** Elevator Pitch Competition  
+- **2nd Place:** Business Design Challenge  

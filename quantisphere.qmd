@@ -1,0 +1,50 @@
+---
+title: ""
+format: html
+---
+
+<p align="center">
+  <img src="images/Quantisphere.png" alt="Quantisphere Overview" class="project-image" style="margin-bottom: 16px;">
+</p>
+
+Quantisphere is a hedge-fund-grade systematic trading architecture engineered for real-time execution, PnL optimization, and latency-sensitive arbitrage. It was built from the ground up to mirror professional HFT infrastructure.
+
+---
+
+## Key Features
+
+- Microsecond-level latency routing using Neo4j path switching  
+- Real-time FIX gateway simulation  
+- Grafana dashboards with Prometheus metrics + alerts  
+- Full Dockerized deployment pipeline  
+- ELK stack log aggregation and observability  
+- Deep Reinforcement Learning–based strategy inference  
+
+> *Custom-built to support sub-millisecond decision making in globally distributed markets.*
+
+---
+
+## System Architecture
+
+<p align="center">
+  <img src="images/quantisphere-diagram.png" alt="Quantisphere Architecture Diagram" class="project-image" style="margin-bottom: 8px;">
+</p>
+
+[Sandbox Demo: Latency Optimization](https://quantisphere-production.up.railway.app/)
+
+---
+
+## Architecture Highlights
+
+- **Execution Engine**: Python + C++ hybrid for ultra-low-latency routing  
+- **Mutable Data Ingestion**: IBKR & Alpaca APIs with dynamic failover logic  
+- **ML Inference**: Deep RL engine driving trade selection & routing decisions  
+- **Monitoring**: Grafana + Prometheus with live metrics and Slack alerting  
+- **Backtest Suite**: Custom latency replay framework for path efficiency tests  
+
+---
+
+## Links
+
+- 📂 [View the full Quantisphere repo on GitHub](https://github.com/chayman7771/Quantisphere)  
+- 📝 [Contact for demo access or interview walkthrough](mailto:camhayman913@gmail.com)  

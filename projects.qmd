@@ -1,0 +1,89 @@
+---
+title: "Project Portfolio"
+format:
+  html:
+    allow-html: true
+    css: styles-dark.css
+---
+
+## Statistical Arbitrage Systems
+
+<div align="center">
+  <img src="images/Stat_Arb.png" alt="Stat Arb Strategies" class="project-image">
+  <br>
+  <a href="https://github.com/chayman7771/Statistical-Arbitrage-Systems" target="_blank" class="gh-badge">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-24292f?logo=github&logoColor=white" alt="GitHub Repo Badge"> View Code
+  </a>
+</div>
+<p align="center" class="project-desc">
+  <em>
+  This full-stack statistical arbitrage system supports live, historical, and simulated strategy testing. 
+  Deployed via a Dash UI, it tracks trades in real time, logs strategy-specific PnL, and overlays 
+  comparative performance plots. Designed for iterative research and execution refinement, the framework 
+  makes it easy to evaluate mean reversion, momentum, and rule-based strategies through a unified interface.
+  </em>
+</p>
+<p align="center"><strong>Tech Stack:</strong> Python, Dash, Pandas, Plotly</p>
+
+---
+
+## Geo-Spatial Latency Arbitrage
+
+<div align="center">
+  <img src="images/Latency_Arbitrage.png" alt="Geo-Spatial Latency Arbitrage" class="project-image">
+  <br>
+  <a href="https://github.com/chayman7771/Quantisphere" target="_blank" class="gh-badge">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-24292f?logo=github&logoColor=white" alt="GitHub Repo Badge"> View Code
+  </a>
+</div>
+<p align="center" class="project-desc">
+  <em>
+  Quantisphere is a cloud-native, microservice-driven platform for latency arbitrage. It streams 
+  high-frequency market data via Kafka, stores it in Parquet (with optional kdb+ integration), and 
+  drives real-time signal generation through Python-based machine learning models. The global latency 
+  map and WebSocket dashboard visualize sub-millisecond cross-exchange spreads, while Prometheus and 
+  Grafana provide observability and alerts across the full stack. The system is designed for precision 
+  execution, scalability, and real-time optimization of arbitrage strategies.
+  </em>
+</p>
+<p align="center"><strong>Tech Stack:</strong> Docker, Kubernetes, Kafka, AWS, Python, Postgres, Prometheus, Grafana, WebSockets, Parquet, kdb+</p>
+
+---
+
+## Alternative Data Processing Methods
+
+<div align="center">
+  <img src="images/NLP_Pipelines.png" alt="Alt Data NLP Pipeline" class="project-image">
+  <br>
+  <a href="https://github.com/chayman7771/Forecasting-Models" target="_blank" class="gh-badge">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-24292f?logo=github&logoColor=white" alt="GitHub Repo Badge"> View Code
+  </a>
+</div>
+<p align="center" class="project-desc">
+  <em>
+  Processes SEC filings, earnings calls, and financial news using transformer-based NLP models, converting 
+  raw text into structured alpha-generating features. These are integrated into multifactor models for 
+  downstream strategy development and portfolio construction.
+  </em>
+</p>
+<p align="center"><strong>Tech Stack:</strong> Python, SEC EDGAR API, NLP, Pandas</p>
+
+---
+
+## Monte Carlo, GARCH, ARIMA & Other Forecasting Models
+
+<div align="center">
+  <img src="images/Monte_Carlo_and_Forecasting.png" alt="Monte Carlo + GARCH Forecasting" class="project-image">
+  <br>
+  <a href="https://github.com/chayman7771/Forecasting-Models" target="_blank" class="gh-badge">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-24292f?logo=github&logoColor=white" alt="GitHub Repo Badge"> View Code
+  </a>
+</div>
+<p align="center" class="project-desc">
+  <em>
+  Forecasting engine combining Monte Carlo simulation with GARCH, ARIMA, and other time-series models. 
+  Built in R with ggplot2, it simulates equity price paths under stochastic volatility and visualizes 
+  probabilistic outcomes with confidence intervals to support forward-looking risk and return analysis.
+  </em>
+</p>
+<p align="center"><strong>Tech Stack:</strong> R, ggplot2, Monte Carlo Simulation, GARCH, ARIMA</p>

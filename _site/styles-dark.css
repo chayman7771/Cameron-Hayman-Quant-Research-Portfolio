@@ -1,0 +1,52 @@
+﻿.project-portfolio {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2rem;
+}
+.project-card {
+  background: #181a1b;
+  border-radius: 18px;
+  box-shadow: 0 6px 20px 0 rgba(0,0,0,0.23);
+  overflow: hidden;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+.project-card:hover {
+  transform: translateY(-6px) scale(1.03);
+  box-shadow: 0 10px 32px 0 rgba(0,0,0,0.33);
+}
+.project-image {
+  display: block;
+  margin: 0 auto 0.6rem auto;
+  width: 90%;            /* Make the image almost full width of its container */
+  max-width: 700px;      /* Set a max-width so they don't get pixelated on big screens */
+  height: auto;
+  object-fit: contain;   /* Or 'cover' if you want cropping */
+  background: none;
+  border-bottom: 2px solid #222;
+  padding: 0.3rem 0;
+  box-shadow: 0 2px 12px 0 rgba(0,0,0,0.12); /* optional: soft shadow for emphasis */
+  transition: box-shadow 0.18s;
+}
+.project-image {
+  box-shadow: 0 2px 12px 0 rgba(0,0,0,0.14);
+  border-radius: 10px;
+}
+.project-image:hover {
+  box-shadow: 0 8px 32px 0 rgba(0,0,0,0.22);
+}
+.project-info {
+  padding: 1.1rem;
+}
+.project-info h4 {
+  margin: 0 0 0.4rem 0;
+  font-size: 1.2rem;
+}
+.project-info ul {
+  margin: 0;
+  padding-left: 1.2rem;
+  font-size: 1rem;
+}
