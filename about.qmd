@@ -37,7 +37,7 @@ format: html
   text-align: left;
   max-width: 800px;
   margin: 20px auto;">
-I’m a quantitative developer with a background in mathematics, accounting, and data science. I specialize in building production-grade infrastructure for real-time strategy research, anomaly detection, and latency-critical execution. I design and deploy end-to-end quant systems — from data ingestion and feature engineering to cloud-native model deployment and interactive visualization. My focus is on delivering high-performance solutions that bridge research innovation with live trading environments — turning alpha signals into executable strategies.  </div>
+I’m a quantitative developer with a background in mathematics, accounting, and data science. I specialize in building production-grade infrastructure for real-time strategy research, anomaly detection, and latency-critical execution. I design and deploy end-to-end quant systems--from data ingestion and feature engineering, to cloud-native model deployment and interactive visualization. My primary focus is on delivering high-performance solutions that bridge research innovation with live trading environments and turn alpha signals into executable strategies.  </div>
 </section>
 
 <hr style="border: none; border-top: 1px solid rgba(255,255,255,0.1); margin: 40px auto; max-width: 90%;">
