@@ -20,7 +20,7 @@ Quantisphere is a hedge-fund-grade systematic trading architecture engineered fo
 - ELK stack log aggregation and observability  
 - Deep Reinforcement Learning–based strategy inference  
 
-> *Custom-built to support sub-millisecond decision making in globally distributed markets.*
+> *Custom-built to support millisecond decision making in globally distributed markets.*
 
 ---
 
