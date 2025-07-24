@@ -25,7 +25,7 @@ format: html
 <hr style="border: none; border-top: 1px solid rgba(255,255,255,0.1); margin: 40px auto; max-width: 90%;">
 
 <section class="snap-section" id="about">
-<h2 style="text-align: left; font-size: 1.8rem; margin-bottom: 20px;">About Me</h2>
+<h2 style="text-align: left; font-size: 1.8rem; margin-bottom: 20px;">My Story</h2>
 <div style="
   background: rgba(57,104,150,0.25);
   border: 1px solid #396896;
