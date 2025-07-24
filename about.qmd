@@ -42,6 +42,36 @@ I’m a quantitative developer with a background in mathematics, accounting, and
 
 <hr style="border: none; border-top: 1px solid rgba(255,255,255,0.1); margin: 40px auto; max-width: 90%;">
 
+
+<section class="snap-section" id="about">
+<h2 style="text-align: left; font-size: 1.8rem; margin-bottom: 20px;">About Me</h2>
+<div style="
+  background: rgba(57,104,150,0.25);
+  border: 1px solid #396896;
+  color: #fff;
+  padding: 20px 30px;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  text-align: left;
+  max-width: 800px;
+  margin: 20px auto;">
+For as long as I can remember, I’ve seen the world through numbers and systems. Whether it was visualizing objects in 3D as a kid or spotting hidden patterns in spreadsheets, I’ve always had a natural instinct for uncovering how things are interconnected and discovering abnormalities.
+
+I started my academic journey in financial accounting because I was intrigued by how numbers could both reveal and obscure meaning. But the deeper I got, the more I realized that accounting alone couldn’t explain the full story. I wanted to understand why the numbers looked the way they did and how they could be used to make better decisions. That curiosity led me to explore finance, data analysis, and eventually more advanced mathematics and computer science.
+
+Only then did it start to connect for me: machine learning, statistical modeling, and financial analysis aren’t separate disciplines—they’re different languages describing the same patterns. For me, data science became the lens through which I could synthesize my analytical strengths, my fascination with markets, and my drive to solve real-world problems.
+
+I’ve taken this approach to internships and personal projects alike—though my proudest application is one I dubbed Quantisphere: a geo-spatial latency arbitrage trading infrastructure I built from scratch that allows users to plug and play their own statistical arbitrage strategies on a global stage. I designed it to reduce latency by path switching through both real-time monitoring and predictive anticipation, thereby enabling faster, more informed trading decisions. It was a technical challenge that drew on everything I love: data engineering, financial modeling, statistics, and optimization—all in service of maximizing returns whilst minimizing risks.
+
+It is this kind of work that has long highlighted my journey from my freshman year of college. As my skills advanced and my investment portfolio took off, it became increasingly clear to me that understanding how financial systems operate (and how to improve them) was the most intellectually satisfying endeavor I could find, and one that I will always pursue the only way I know how: relentlessly.
+
+Today, I’m seeking a role as a quantitative researcher/developer in an environment where I can contribute to trade strategy development, financial engineering, or high-impact financial modeling in a fast paced, competitive environment that values both independent thinking and collaboration.
+
+At the end of the day, I do this work because I believe that well-applied data doesn’t just explain the world—it reshapes it.For as long as I can remember, I’ve se
+</div>
+</section>
+
 <!-- AREAS OF EXPERTISE -->
 <section id="expertise" style="margin-top: 50px;">
     <h3 style="text-align: left; font-size: 1.6rem; margin: 40px auto 20px auto; max-width: 800px;">Areas of Expertise</h3>
